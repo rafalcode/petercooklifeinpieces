@@ -1,7 +1,5 @@
 # Sir Arthur Streeb-Greebling's "A Life in Pieces", BBC 1990.
 
-On Hitler: <i><b>One could have had no inkling that he'd go onto blot his copybook in such a spectacular way.</b></i> (Episode 5).
-
 This is a set of transcripts of the twelve 5 minute programmes, produced by Talkback and broadcast by the BBC during the Christmas period of 1990.
 
 These are available on various YouTube accounts, some of which have been published there for a very long time, for example [here](https://www.youtube.com/playlist?list=PL5918027E140EF1F7). Below you will find transcripts of individual episodes together with a link to the video.
