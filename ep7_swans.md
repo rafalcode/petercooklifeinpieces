@@ -52,7 +52,7 @@ p {text-indent: -32px; margin-left: 26px; }
 
 **LK:** Did you consider separating the fish and sending them individually?
 
-**SA:** Of course not! To separate a Balinese fighting fisherman's mate is an awful thing to do.
+**SA:** Of course not! To separate a Balinese fighting fish from its mate is an awful thing to do!
 
 **LK:** They pine?
 
