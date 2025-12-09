@@ -1,6 +1,6 @@
 # Peter Cook as Sir Arthur Streeb-Greebling
 
-<i><b>"Christmas, it used to be great fun in the old days, when it was simply an orgy of commercial excess, but now I find the people are tainting the whole thing with a lot of religious mumbo jumbo.</b></i>
+<i><b>"Christmas, it used to be great fun in the old days, when it was simply an orgy of commercial excess, but now I find people are tainting the whole thing with a lot of religious mumbo jumbo.</b></i>
 
 This is a set of transcripts of the twelve 5 minute programmes, produced by Talkback and broadcast by the BBC during the Christmas period of 1990.
 
