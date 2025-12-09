@@ -1,5 +1,7 @@
 # Sir Arthur Streeb-Greebling's "A Life in Pieces", BBC 1990.
 
+<i>b<b>"Christmas, it used to be great fun in the old days, when it was simply an orgy of commercial excess, but now I find the people are tainting the whole thing with a lot of religious mumbo jumbo.</b></i>
+
 This is a set of transcripts of the twelve 5 minute programmes, produced by Talkback and broadcast by the BBC during the Christmas period of 1990.
 
 These are available on various YouTube accounts, some of which have been published there for a very long time, for example [here](https://www.youtube.com/playlist?list=PL5918027E140EF1F7). Below you will find transcripts of individual episodes together with a link to the video.
