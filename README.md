@@ -1,4 +1,4 @@
-# Sir Arthur Streeb-Greebling's "A Life in Pieces", BBC 1990.
+# Peter Cook as Sir Arthur Streeb-Greebling
 
 <i>b<b>"Christmas, it used to be great fun in the old days, when it was simply an orgy of commercial excess, but now I find the people are tainting the whole thing with a lot of religious mumbo jumbo.</b></i>
 
