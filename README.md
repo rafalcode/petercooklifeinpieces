@@ -8,7 +8,7 @@ These are available on various YouTube accounts, some of which have been publish
 
 Sir Arthur Streeb-Greebling is a persona of Peter Cook, widely recognised as one the great comedic geniuses of the United Kingdom. Peter invented him while he was quite young, and from that period there is a famous sketch of a young Sir Arthur talking about his vain efforts teaching crows to swim underwater. Trying to get animals to do things they're entirely unsuited for is a common trope of Sir Arthur's, and come up here in various guises.
 
-However there is some special about the elder Sir Arthur (Peter was only about 53 though) and besides the very sharp humour there is often also a poignancy to the futility of his activities.
+Besides unconstrained hilarity, there is also something special about the elder Sir Arthur, a poignancy regarding the futility of his lifetime's activities which is also a send-up of other's lives that ressemble his.
 
 - First episode: Partridge in a Pear Tree. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep1_partridgepear.html). Origins of Streebs and Greeblings; Sir Arthur's linguistic abilities. [Video](https://www.youtube.com/watch?v=IeRS-eOzH3Y).
 - Second episode: Turtle Doves. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep2_turtledoves.html). How pekinese dogs looks as they do; Sir Arthur's father's demise. [Video](https://www.youtube.com/watch?v=l4qU7xLZkGs).
