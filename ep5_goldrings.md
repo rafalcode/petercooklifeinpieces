@@ -84,7 +84,7 @@ p {text-indent: -32px; margin-left: 26px; }
 
 **LK:** And Hitler too, I should think.
 
-**SA:** I don't know. He rushed out straight after the race. But during the ceremony, when Goring hung the medal around my neck, he told me I was definitely for the high jump. Well, I was very willing to give it a go, but unfortunately I had to nip straight back to London for something or other, so I never got the chance.
+**SA:** I don't know. He rushed out straight after the race. But during the ceremony, when Göring hung the medal around my neck, he told me I was definitely for the high jump. Well, I was very willing to give it a go, but unfortunately I had to nip straight back to London for something or other, so I never got the chance.
 
 **LK:** What were your impressions of Hitler?
 
