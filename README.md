@@ -10,7 +10,7 @@ However there is some special about the elder Sir Arthur (Peter was only about 5
 
 - First episode: Partridge in a Pear Tree. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep1_partridgepear.html). [Video](https://www.youtube.com/watch?v=IeRS-eOzH3Y). Aka, origins of Streebs and Greeblings.
 - Second episode: Turtle Doves. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep2_turtledoves.html). [Video](https://www.youtube.com/watch?v=l4qU7xLZkGs). Aka, Pekinese dog breed.
-- Third episode: French Hens. [Trasncript](https://rafalcode.github.io/petercooklifeinpieces/ep3_frenchhens.html). [Video](https://www.youtube.com/watch?v=OiCAfzvY_ig). Aka. Dark underbelly of Brussels society.
+- Third episode: French Hens. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep3_frenchhens.html). [Video](https://www.youtube.com/watch?v=OiCAfzvY_ig). Aka. Dark underbelly of Brussels society.
 - Fourth episode: Calling Birds. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep4_callingbirds.html). [Video](https://www.youtube.com/watch?v=NKnWuE2JoDQ). Aka, Paris in the Twenties.
 - Fifth episode: Golden Rings. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep5_goldrings.html). [Video](https://www.youtube.com/watch?v=xzJv0yq1bVw). Aka, the Hitler episode.
 - Sixth episode: Geese A-Laying. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep6_geese.html). [Video](https://www.youtube.com/watch?v=L-3t1aOxQZ4). Aka, cannibalism while an escaping prisoner-of-war.
