@@ -1,6 +1,6 @@
 # Sir Arthur Streeb-Greebling's "A Life in Pieces", BBC 1990.
 
-Sir Arthur, aristocratic duffer extraordinaire, on Hitler: <i><b>One could have had no inkling that he'd go onto blot his copybook in such a spectacular way.</b></i>
+On Hitler: <i><b>One could have had no inkling that he'd go onto blot his copybook in such a spectacular way.</b></i> (Episode 5).
 
 This is a set of transcripts of the twelve 5 minute programmes, produced by Talkback and broadcast by the BBC during the Christmas period of 1990.
 
