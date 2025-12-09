@@ -50,7 +50,7 @@ p {text-indent: -32px; margin-left: 26px; }
 
 **LK:** Did he have any formal education?
 
-**SA:** Yes. We arranged him and, the goats who he believed were his parents, to go down to a very good prep school near Lymington in Hampshire, and they duly traveled down there, "en famille" as it were.
+**SA:** Yes. We arranged for him and, the goats who he believed were his parents, to go down to a very good prep school near Lymington in Hampshire, and they duly traveled down there, "en famille" as it were.
 
 **LK:** By train?
 
