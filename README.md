@@ -1,4 +1,4 @@
-# Peter Cook as Sir Arthur Streeb-Greebling
+# Sir Arthur Streeb-Greebling for the 12 days of Christmas
 
 <i><b>"Christmas, it used to be great fun in the old days, when it was simply an orgy of commercial excess, but now I find people are tainting the whole thing with a lot of religious mumbo jumbo.</b></i>
 
