@@ -6,7 +6,7 @@ p {text-indent: -32px; margin-left: 26px; }
 
 ![Ep.1 Partridge](./e1_partridge.jpg)
 
-**LK:** The program you are about to see is not only the first of a series, but the first of a series of series, which we hope will run every year for several years. Each one lasts for twelve days, the twelve days of Christmas, in fact, during which I shall be inviting famous figures both to reflect upon their lives and to choose their 12 seasonal gifts. In future years, I hope to be joined by such luminaries as president Gorbachev, mother Theresa, Lady Thatcher, Nelson Mandela, and Kenny Everett. But to begin the series, we've chosen someone who without question is taller than all of them, the international poultry tycoon, Sir Arthur Streeb-Greebling. Join me now as I probe him searchingly in the first edition of "A Life in Pieces".
+**LK:** The programme you are about to see is not only the first of a series, but the first of a series of series, which we hope will run every year for several years. Each one lasts for twelve days, the twelve days of Christmas, in fact, during which I shall be inviting famous figures both to reflect upon their lives and to choose their 12 seasonal gifts. In future years, I hope to be joined by such luminaries as president Gorbachev, mother Theresa, Lady Thatcher, Nelson Mandela, and Kenny Everett. But to begin the series, we've chosen someone who without question is taller than all of them, the international poultry tycoon, Sir Arthur Streeb-Greebling. Join me now as I probe him searchingly in the first edition of "A Life in Pieces".
 
 **LK:** Tonight and for the next twelve nights, I'm the guest of sir Arthur Streeb-Greebling, a man who needs no introduction from me. And so without further ado, Sir Arthur, good evening.
 
@@ -34,11 +34,11 @@ p {text-indent: -32px; margin-left: 26px; }
 
 **LK:** Why was that?
 
-**SA:** Well, because they had never actually seen one. So they they couldn't prove it existed and naturally, they believed in it. A question of faith, really. Various animals are sacred as well, the giraffe, for example.  Legend had it that were a Pict to kill a giraffe, his family will be cursed for all eternity.
+**SA:** Well, because they had never actually seen one. So they they couldn't prove it existed and naturally, they believed in it. A question of faith, really. Various animals are sacred as well, the giraffe, for example. Legend had it that were a Pict to kill a giraffe, his family would be cursed for all eternity.
 
 **LK:** How did the picts know about the giraffe?
 
-**SA:** Well, they only knew the theoretical giraffe which they revered because, he didn't need a ladder. It wasn't actually a giraffe, of course. Cave painting show, cylindrical sausage like animal, brownish in color, with one cylindrical leg and a 200 foot long neck ending in another leg, or neck it could be. It's not very well drawn. In fact, I think it might well be upside down, the the one I saw.
+**SA:** Well, they only knew the theoretical giraffe which they revered because, he didn't need a ladder. It wasn't actually a giraffe, of course. Cave painting show, a cylindrical sausage like animal, brownish in color, with one cylindrical leg and a 200 foot long neck ending in another leg, or neck it could be. It's not very well drawn. In fact, I think it might well be upside down, the the one I saw.
 
 **LK:** I see.
 
