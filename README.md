@@ -16,9 +16,9 @@ However there is some special about the elder Sir Arthur (Peter was only about 5
 - Fourth episode: Calling Birds. [Transcript](https://rafalcode.github.io/streeb12days/ep4_callingbirds.html). [Video](https://www.youtube.com/watch?v=NKnWuE2JoDQ). Aka, Paris in the Twenties.
 - Fifth episode: Golden Rings. [Transcript](https://rafalcode.github.io/streeb12days/ep5_goldrings.html). [Video](https://www.youtube.com/watch?v=xzJv0yq1bVw). Aka, the Hitler episode.
 - Sixth episode: Geese A-Laying. [Transcript](https://rafalcode.github.io/streeb12days/ep6_geese.html). [Video](https://www.youtube.com/watch?v=L-3t1aOxQZ4). Aka, cannibalism while an escaping prisoner-of-war.
-- Seventh episode: Swans A-Swimming. [Transcript](https://rafalcode.github.io/streeb12days/ep7_swans.html). [Video](https://www.youtube.com/watch?v=MouCK8QwbyM).
+- Seventh episode: Swans A-Swimming. [Transcript](https://rafalcode.github.io/streeb12days/ep7_swans.html). [Video](https://www.youtube.com/watch?v=MouCK8QwbyM). The Balinese fighting fish episode.
 - Eighth episode: Maids A-Milking. [Transcript](https://rafalcode.github.io/streeb12days/ep8_maids.html). [Video](https://www.youtube.com/watch?v=tn7m0saTh2c). Aka, the secret farming episode.
-- Ninth episode: Drummers Drumming. [Transcript](https://rafalcode.github.io/streeb12days/ep9_drummers.html). [Video](https://www.youtube.com/watch?v=7XEJt7fqoGI)
+- Ninth episode: Drummers Drumming. [Transcript](https://rafalcode.github.io/streeb12days/ep9_drummers.html). [Video](https://www.youtube.com/watch?v=7XEJt7fqoGI). Aka, the Cambridge espionage episode.
 - Tenth episode: Pipers Piping. [Transcript](https://rafalcode.github.io/streeb12days/ep10_pipers.html). [Video](https://www.youtube.com/watch?v=GWSyRgXmP1Q). Aka. the cricket extravaganza.
 - Eleventh episode: Ladies Dancing. [Transcript](https://rafalcode.github.io/streeb12days/ep11_ladies.html). [Video](https://www.youtube.com/watch?v=FiG87JlCMDw). Aka, Sir Arthur's son Roger.
 - Twelfth episode: Lords A-Leaping. [Transcript](https://rafalcode.github.io/streeb12days/ep12_lords.html). [Video](https://www.youtube.com/watch?v=CFJpCM4gCmQ). The annual Greebling fête.
