@@ -12,7 +12,7 @@ Besides unconstrained hilarity, there is also something special about the elder 
 
 - First episode: Partridge in a Pear Tree. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep1_partridgepear.html). Origins of Streebs and Greeblings; Sir Arthur's linguistic abilities. [Video](https://www.youtube.com/watch?v=IeRS-eOzH3Y).
 - Second episode: Turtle Doves. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep2_turtledoves.html). How Pekinese dogs look as they do; Sir Arthur's father's demise. [Video](https://www.youtube.com/watch?v=l4qU7xLZkGs).
-- Third episode: French Hens. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep3_frenchhens.html). The European Hen Committee; The love of Sir Arthur's life. [Video](https://www.youtube.com/watch?v=OiCAfzvY_ig).
+- Third episode: French Hens. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep3_frenchhens.html). The European Hen Commission; The love of Sir Arthur's life. [Video](https://www.youtube.com/watch?v=OiCAfzvY_ig).
 - Fourth episode: Calling Birds. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep4_callingbirds.html). Erroneous present means no memory trigger; Paris in the Twenties. [Video](https://www.youtube.com/watch?v=NKnWuE2JoDQ).
 - Fifth episode: Golden Rings. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep5_goldrings.html). The 1936 Olympics and meeting Hitler. [Video](https://www.youtube.com/watch?v=xzJv0yq1bVw).
 - Sixth episode: Geese A-Laying. [Transcript](https://rafalcode.github.io/petercooklifeinpieces/ep6_geese.html). Confrontation with cannibalism in group of escaping prisoners-of-war. [Video](https://www.youtube.com/watch?v=L-3t1aOxQZ4).

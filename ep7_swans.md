@@ -89,7 +89,7 @@ p {text-indent: -32px; margin-left: 26px; }
 
 **LK:** Yes.
 
-**SA:** D Aits Laurence I knew: Lady Chatterbox and her whatnot.
+**SA:** D Aitch Lawrence I knew: Lady Chatterbox and her whatnot.
 
 **LK:** Well, at any rate, sir Arthur, Seven-Swans-A-Swimming, your seventh choice.
 

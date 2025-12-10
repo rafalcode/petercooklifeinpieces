@@ -12,15 +12,15 @@ p {text-indent: -32px; margin-left: 26px; }
 
 **LK:** Three French hens? Why is that?
 
-**SA:** Well I chose three French hens because three is about the ideal number. You certainly don't want to have more than that, and a single French hen on its own tends to be rather self-centered, a huge *ego*.
+**SA:** Well I chose three French hens because three is about the ideal number. You certainly don't want to have more than that, and a single French hen on its own tends to be rather self-centered, a huge <i>ego</i>.
 
-**LK:** What about two french hens?
+**LK:** What about two French hens?
 
 **SA:** Well, they'll be twice as self-centered.
 
 **LK:** Why *French* hens?
 
-**SA:** I chose French hens because they're rather more sophisticated than the English hen - "la poule anglaise", which is a rather dull creature. As Winston Churchill said, if the hen should ever leave the Tower of London it really wouldn't matter very much.
+**SA:** I chose French hens because they're rather more sophisticated than the English hen, <i>la poule anglaise</i>", which is a rather dull creature. As Winston Churchill said, if the hen [Hun?] should ever leave the Tower of London it really wouldn't matter very much.
 
 **LK:** You really seem to know your hens?
 
@@ -28,16 +28,19 @@ p {text-indent: -32px; margin-left: 26px; }
 
 **LK:** The European Hen Commission?
 
-**SA:** That's right yes, in Brussels. It was our task to arrive at the single European hen: a hen combining all the good features of the individual national hens. The Italian hen for example has a lot to contribute what in
-the Italian hen: its swagger, its bragadoccio. One wants to keep that strain of the Italian hen in the single European hen, but one can do without the exuberance, the unpleasant strutting and dare one say it? the cowardice?
+**SA:** That's right yes, in Brussels. It was our task to arrive at the Single European Hen: a hen combining all the good features of the individual national hens. The Italian hen for example has a lot to contribute.
+
+**LK:** What in particular?
+
+**SA:** The Italian hen - its swagger, its braggadoccio. One wants to keep that strain of the Italian hen in the Single European Hen, but one can do without the exuberance, the unpleasant strutting and dare one say it? the cowardice?
 
 **LK:** Cowardice?
 
-**SA:** Yes if a hen is unwilling to get into the oven then how on earth are we going to eat it? The EHC is one which is self de-feathering one that comes without a great song and dance mols neatly into the nearest bowl and jumps into the microwav.
+**SA:** Yes if a hen is unwilling to get into the oven, then how on earth are we going to eat it? The SEH is one which is self de-feathering, one that comes without a great song and dance, moults neatly into the nearest bowl and jumps into the <i>microwave</i>.
 
 **LK:** With a swagger?
 
-**SA:** No no no! We don't want it swaggerng for heaven's sake, nor do we want it entering so meekly, so despondently, that we feel sorry for it.
+**SA:** No no no! We don't want it swaggering for heaven's sake, nor do we want it entering so meekly, so despondently, that we feel sorry for it.
 
 **LK:** What are your main memories of Brussels during the 1970s?
 
@@ -74,11 +77,11 @@ all I suppose I missed female companionship.
 
 **LK:** The Swiss quarter?
 
-**SA:** Yes, not a safe place for the casual visitor after dark. I was feeling rather restless and as I was passing by the notorious Toblerone Complex, I saw a girl huddled in the doorway she seemed to be sobbing and there was something about this frail little creature that uh drew me to her.
+**SA:** Yes, not a safe place for the casual visitor after dark. I was feeling rather restless and as I was passing by the notorious Toblerone Complex, I saw a girl huddled in the doorway. She seemed to be sobbing and there was something about this frail little creature that uh drew me to her.
 
 **LK:** And this was to be the love of your life?
 
-**SA:** She was to become that, as uh time went by. Her name was Rochelle. She'd come to Brussels in search of the bright lights. A simple farm girl from Ghent a girl who felt trapped by the sheep and the chickens and wanted to find herself and in so doing ... she found me. I took her by the hand and led her wordlessly to my hotel.
+**SA:** She was to become that, as uh time went by. Her name was Rochelle. She'd come to Brussels in search of the bright lights. A simple farm girl from Ghent. A girl who felt trapped by the sheep and the chickens and wanted to find herself and in so doing ... she found me. I took her by the hand and led her wordlessly to my hotel.
 
 **LK:** Love at first sight?
 
