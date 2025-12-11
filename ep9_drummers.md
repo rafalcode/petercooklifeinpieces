@@ -30,9 +30,11 @@ p {text-indent: -32px; margin-left: 26px; }
 
 **LK:** Yes. I can imagine.
 
-**SA:** I mean, for example, we've been so busy collecting all the relevant information. It was only in March, I think, far, far too late, that we predicted that, war was inevitable. When?
+**SA:** I mean, for example, we've been so busy collecting all the relevant information. It was only in March this year, I think, far far too late, that we predicted that war was inevitable.
 
-1914, I think it was. We're dreadfully behind at the moment. Dreadfully behind with all this paperwork. But, a lot of us are popping into the office over the weekend to try and, try and catch up. We're doing our best.
+**LK:** When?
+
+**SA:** 1914, I think it was. We're dreadfully behind at the moment. Dreadfully behind with all this paperwork. But, a lot of us are popping into the office over the weekend to try and, try and catch up. We're doing our best.
 
 **LK:** Was it professor Hillary who first introduced you to the aphids?
 
